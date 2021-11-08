@@ -2,8 +2,8 @@
 # Chào Bạn 👋, mình là Hidden
 #### 🔭 Nơi ở hiện tại mình không tiện tiết lộ =))
 #### 🌱 Mình đang học Nodejs
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hidden163&show_icons=true&theme=nightowl)](https://github.com/Hidden163)
-<img src="http://github-readme-streak-stats.herokuapp.com?user=manhkhac&theme=neon-palenight" alt = "Github Streak" >
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hidden163&show_icons=true&theme=onedark)](https://github.com/Hidden163)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Hidden163&theme=neon-palenight" alt = "Github Streak" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=2000 src="https://github-profile-trophy.vercel.app/?username=Hiddenc&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
