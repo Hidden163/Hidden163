@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=%2336BCF7&lines=Hi+!;I'm+Hidden;Welcome+to+my+Github)](https://git.io/typing-svg)
 # Chào Bạn 👋, mình là Hidden
 #### 🔭 Nơi ở hiện tại mình không tiện tiết lộ =))
 #### 🌱 Mình đang học Nodejs
