@@ -2,6 +2,7 @@
 #### 🔭 Nơi ở hiện tại mình không tiện tiết lộ =))
 #### 🌱 Mình đang học Nodejs
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hidden163&show_icons=true&theme=nightowl)](https://github.com/Hidden163)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=manhkhac&theme=neon-palenight" alt = "Github Streak" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hidden163&color=ff69b4" alt="Hidden163" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
