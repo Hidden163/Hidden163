@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=%2336BCF7&size=30&lines=Hi+!;I'm+Hidden;Welcome+to+my+Github)](https://git.io/typing-svg)
-# Chào Bạn 👋, mình là Hidden
 #### 🔭 Nơi ở hiện tại mình không tiện tiết lộ =))
 #### 🌱 Mình đang học Nodejs
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hidden163&show_icons=true&theme=onedark)](https://github.com/Hidden163)
